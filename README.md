@@ -1,16 +1,19 @@
-# bmi
+# BMI Calculator
 
-A new Flutter project.
+A new Flutter project to find body mass index by inputting height,weight,age and gender.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This app is build with dart and flutter with simple ui and simple function.
 
-A few resources to get you started if this is your first Flutter project:
+Body mass index (BMI) is a measure of body fat based on height and weight that applies to adult men and women.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-Enter your weight using counter and height using slider in metric measures.
+-Select "Calculate" and your BMI will appear below.
+-Result will be apear in next page.
+-Also shows a message condition of body such as
+              *Underweight = <18.5
+              Normal weight = 18.5–24.9
+              Overweight = 25–29.9
+              Obesity = BMI of 30 or greater8
+  ![Uploading bmi calc.jpg…](),![Uploading bmi calc2.jpg…]()
